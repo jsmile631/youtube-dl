@@ -9,3 +9,8 @@ youtube-dl --extract-audio --audio-format mp3  [url playlist]
 ```code
 youtube-dl -x --audio-format mp3 [url playlist]
 ```
+
+## Donwload all videos from playlist
+```code
+youtube-dl -i [url_playlist]
+```
